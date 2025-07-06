@@ -1,0 +1,8 @@
+{
+  "total_tweets": 500,
+  "positive_pct": 40.0,
+  "negative_pct": 40.0,
+  "neutral_pct": 20.0,
+  "avg_polarity": -0.0166445038201038,
+  "avg_subjectivity": 0.490781700375072
+}

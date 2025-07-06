@@ -1,0 +1,38 @@
+{
+  "summary_stats": {
+    "total_tweets": 1200,
+    "unique_users": 100,
+    "date_range": [
+      "2025-06-29 01:37:16.679156",
+      "2025-07-06 01:37:16.679156"
+    ],
+    "positive_pct": 50.583333333333336,
+    "negative_pct": 5.416666666666667,
+    "neutral_pct": 44.0,
+    "avg_polarity": 0.3348762814153439,
+    "avg_subjectivity": 0.48071019027269035,
+    "avg_confidence": 0.7817596312830688,
+    "avg_word_count": 9.0225,
+    "total_engagement": "8752",
+    "top_emotions": {
+      "neutral": 843,
+      "joy": 195,
+      "gratitude": 132,
+      "sadness": 30
+    }
+  },
+  "peak_hours": {
+    "most_positive_hour": "16",
+    "most_negative_hour": "12",
+    "most_active_hour": "1",
+    "hourly_stats": "     polarity              sentiment\n         mean    std count  <lambda>\nhour                                \n0       0.291  0.400    49    48.980\n1       0.295  0.419    51    43.137\n2       0.293  0.406    50    46.000\n3       0.347  0.443    50    50.000\n4       0.329  0.398    50    54.000\n5       0.307  0.363    50    46.000\n6       0.330  0.434    50    46.000\n7       0.321  0.379    50    56.000\n8       0.317  0.377    50    54.000\n9       0.383  0.429    50    62.000\n10      0.325  0.429    50    52.000\n11      0.392  0.398    50    58.000\n12      0.261  0.416    50    42.000\n13      0.383  0.441    50    52.000\n14      0.376  0.381    50    58.000\n15      0.343  0.435    50    50.000\n16      0.376  0.349    50    64.000\n17      0.332  0.400    50    48.000\n18      0.376  0.458    50    54.000\n19      0.330  0.445    50    48.000\n20      0.319  0.414    50    44.000\n21      0.295  0.384    50    44.000\n22      0.362  0.434    50    44.000\n23      0.354  0.410    50    50.000"
+  },
+  "insights": [
+    "Overall mood is positive! 50.6% of tweets show positive sentiment.",
+    "Most positive hour: 16:00",
+    "Peak activity hour: 1:00",
+    "Positive tweets get significantly more engagement!",
+    "Dominant emotion: Neutral"
+  ],
+  "generated_at": "2025-07-06T01:39:36.974634"
+}

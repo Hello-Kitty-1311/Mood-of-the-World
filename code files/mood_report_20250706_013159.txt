@@ -1,0 +1,26 @@
+
+Mood of the World ANALYSIS REPORT
+Generated: 2025-07-06 01:32:00
+==================================================
+
+OVERVIEW
+Total Tweets Analyzed: 500
+Analysis Period: 2024-01-01 00:00:00 to 2024-01-21 19:00:00
+
+SENTIMENT BREAKDOWN
+Positive: 40.0%
+Negative: 40.0%
+Neutral: 20.0%
+
+EMOTIONAL METRICS
+Average Polarity: -0.017 (Range: -1 to +1)
+Average Subjectivity: 0.491 (Range: 0 to 1)
+
+WORLD MOOD TEMPERATURE
+49.2/100
+
+INSIGHTS
+- The world is feeling more negative overall
+- Emotional expression is moderately subjective
+- Most common sentiment: Negative
+    

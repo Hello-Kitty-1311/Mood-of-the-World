@@ -1,0 +1,51 @@
+
+    Mood of the World - FINAL REPORT
+    =============================================================
+
+    DATASET OVERVIEW
+    • Total Tweets Analyzed: 1,200
+    • Unique Users: 100
+    • Analysis Period: 2025-06-29 to 2025-07-06
+    • Data Sources: sample_data
+
+    SENTIMENT BREAKDOWN
+    • Positive: 607 (50.6%)
+    • Negative: 65 (5.4%)
+    • Neutral: 528 (44.0%)
+
+    KEY METRICS
+    • Average Polarity: 0.335 (Range: -1 to +1)
+    • Average Subjectivity: 0.481 (Range: 0 to 1)
+    • Average Confidence: 0.782
+    • Average Words per Tweet: 9.0
+
+    TIME PATTERNS
+    • Most Active Hour: 1:00
+    • Most Positive Hour: 11:00
+    • Weekend vs Weekday Mood: Better on weekends
+
+    TOP EMOTIONS
+        • Neutral: 843
+    • Joy: 195
+    • Gratitude: 132
+    • Sadness: 30
+
+    ENGAGEMENT INSIGHTS
+    • Total Likes: 6,968
+    • Total Retweets: 1,784
+    • Most Engaging Sentiment: Positive
+
+    KEY FINDINGS
+        • Overall mood is positive! 50.6% of tweets show positive sentiment.
+    • Most positive hour: 16:00
+    • Peak activity hour: 1:00
+    • Positive tweets get significantly more engagement!
+    • Dominant emotion: Neutral
+
+    RECOMMENDATIONS
+    • Best time to post positive content: 11:00
+    • Focus on neutral emotion for engagement
+    • Weekend content performs better
+
+    Generated: 2025-07-06 01:39:36
+    
